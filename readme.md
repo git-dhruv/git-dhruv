@@ -3,12 +3,10 @@
 
 - 🔭 I’m currently working on **Mars Sample Recovery Helicopter**
 
-- 👨‍💻 All of my projects are available at [example.com](example.com)
-
 - 📫 How to reach me **dhruvkp@seas.upenn.edu**
 
-- 📄 Know about my experiences [example.com](example.com)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-dhruv&rank=-C,-?" alt="git-dhruv" /></a> </p>
+- 📄 Know about my experiences [git-dhruv.github.io/dhruvp](https://git-dhruv.github.io/dhruvp/)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-dhruv&rank=-C,-?" alt="git-dhruv" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -17,3 +15,4 @@
 </p>
 
 
+<p>PS: I don't bother to maintain readme's for course projects. Check my website if you want to see output of them.</p>
