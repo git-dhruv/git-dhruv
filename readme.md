@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-dhruv&" alt="git-dhruv" /></p>
 
-![](https://github.com/git-dhruv/git-dhruv/blob/main/hatt2.gif)
