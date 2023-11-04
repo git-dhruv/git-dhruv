@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dhruvkp@seas.upenn.edu**
 
-- 📄 Know about my experiences [git-dhruv.github.io/dhruvp](https://git-dhruv.github.io/dhruvp/)
+<!--- 📄 Know about my experiences [git-dhruv.github.io/dhruvp](https://git-dhruv.github.io/dhruvp/)-->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-dhruv&row=1&column=5&rank=-C,-?" alt="git-dhruv" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
