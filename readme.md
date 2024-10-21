@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A Roboticist</h3>
 
-- 🔭 I’m currently working on **Mars Sample Recovery Helicopter**
+- 🔭 I’m currently working on **Tesla Optimus**
 
 - 📫 How to reach me **dhruvkp@seas.upenn.edu**
 
