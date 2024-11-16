@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A Roboticist</h3>
 
-- 🔭 I’m currently working on **Tesla Optimus**
-
 - 📫 How to reach me **dhruvkp@seas.upenn.edu**
 
 <!--- 📄 Know about my experiences [git-dhruv.github.io/dhruvp](https://git-dhruv.github.io/dhruvp/)-->
